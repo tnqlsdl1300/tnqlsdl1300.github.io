@@ -10,7 +10,7 @@ header { background-image: url(https://www.wallpapertip.com/wmimgs/15-152552_813
 header .container { padding: 16rem 4rem; }
 header .container h1 {
   letter-spacing: -0.05em;
-  font-size: 3.25rem;
+  font-size: 3.5rem;
   font-weight: 100;
   text-shadow: 0 1px 0 #ccc,
                0 6px 1px rgba(0,0,0,.1),
@@ -20,7 +20,7 @@ header .container h1 {
                0 5px 10px rgba(0,0,0,.25),
                0 10px 10px rgba(0,0,0,.2),
                0 20px 20px rgba(0,0,0,.15);
-  color: #ffffff;
+  color: aquamarine;
 }
 
 /* 네비게이션 바 */
