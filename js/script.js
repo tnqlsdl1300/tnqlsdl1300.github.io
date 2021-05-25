@@ -88,9 +88,9 @@
       type: 'doughnut',
       options,
       data: {
-        labels: ['GitHub', 'Maven', 'Gradle'],
+        labels: ['GitHub', 'Maven', 'Gradle', 'AWS'],
         datasets: [{
-          data: [50, 30, 20],
+          data: [50, 30, 15, 5],
           borderColor,
           backgroundColor,
           hoverBackgroundColor,
