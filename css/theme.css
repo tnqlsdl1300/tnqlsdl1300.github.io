@@ -152,7 +152,7 @@ td .profile { padding-top: 0.5rem; }
 #salary .no { color: orangered; }
 
 /* Contact */
-.contact-body { display: flex; flex-direction: column; align-items: center; justify-content: center; margin-left: 300px; width: 550px; height: 320px; border-radius: 10px; text-transform: uppercase; background: #ffffff; }
+.contact-body { display: flex; flex-direction: column; align-items: center; justify-content: center; margin-left: 0px; width: 550px; height: 320px; border-radius: 10px; text-transform: uppercase; background: #ffffff; }
 .contact-body h1 { font-size: 2.5rem; font-weight: 800; letter-spacing: 0.094rem; margin-bottom: 0; }
 .contact-body small { font-size: 0.7rem; font-weight: 800; letter-spacing: 0.219rem; color: #3f416567; }
 .contact-body img { width: 5.625rem; height: 5.625rem; border-radius: 50%; border: 0.188rem solid greenyellow; }
