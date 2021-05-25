@@ -1,6 +1,5 @@
 # Web Portfolio
 
-![dark](https://i.ibb.co/GH46HqQ/One-Page-Templat.png)
-![dark](https://i.ibb.co/VvYYKPw/One-Page-Templat-dark.png)
+##### 박수빈 웹 포트폴리오 입니다.
 
 링크(Link): https://tnqlsdl1300.github.io/
