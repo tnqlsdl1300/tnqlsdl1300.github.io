@@ -120,7 +120,7 @@ td .profile { padding-top: 0.5rem; }
 #stacks table thead th:nth-child(4) { width: 100px; }
 #stacks table tbody td:nth-child(4) { padding: 0; }
 #stacks table tbody td i { font-size: 0.7rem; letter-spacing: -2.4px; }
-#stacks .star-icon i { color:rgb(140, 233, 0); }
+#stacks .star-icon i { color: #4682B4; }
 
 /* salary   */
 #salary .card-header { height: 3rem; }
