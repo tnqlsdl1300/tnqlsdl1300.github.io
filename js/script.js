@@ -71,7 +71,7 @@
       type: 'doughnut',
       options,
       data: {
-        labels: ['OracleDB', 'MySQL'],
+        labels: ['OracleDB', 'MySQL(MariaDB)'],
         datasets: [{
           data: [90, 10],
           borderColor,
